@@ -1,0 +1,33 @@
+y1 = ^a1^a2^a3a4
+y2 = ^a1^a2a3^a4
+y3 = ^a1^a2a3a4
+y4 = ^a1^a2a3a4 V ^a1a2^a3a4
+y5 = ^a1a2^a3^a4 V a1^a2^a3^a4
+y6 = ^a1a2^a3a4 V a1^a2a3^a4
+y7 = ^a1a2a3^a4 V a1^a2^a3a4
+y8 = ^a1a2a3a4
+y9 = ^a1a2a3a4
+y10 = ^a1a2a3a4 V a1^a2a3^a4
+y11 = a1^a2a3^a4
+y12 = a1^a2a3a4
+y13 = a1a2^a3^a4
+y14 = a1a2^a3a4
+y15 = a1a2a3^a4
+
+w1 = ^a1a2^a3^a4^x4 V ^a1a2^a3a4x6 V ^a1a2^a3a4^x6 V ^a1a2a3a4x7x2x9 V ^a1a2a3a4x7^x2x4 V ^a1a2a3a4x7^x2^x4 V ^a1a2a3a4x7x2^x9x10^x11 V ^a1a2a3a4x7x2^x9^x10x11
+
+w2 = ^a1^a2a3^a4 V ^a1^a2a3a4x5 V ^a1^a2a3a4^x5 V a1^a2a3a4x1x8 V a1^a2a3a4^x1x2x9 V a1^a2a3a4x1^x8x10^x11 V a1^a2a3a4x1^x8^x10x11 V a1^a2a3a4^x1^x2x10^x11 V a1^a2a3a4^x1^x2^x10x11 V a1^a2a3a4^x1x2^x9x10^x11 V a1^a2a3a4^x1x2^x9^x10x11
+
+w3 = ^a1^a2^a3a4x1 V ^a1^a2^a3a4x3 V ^a1^a2^a3a4x2 V ^a1a2^a3^a4^x4 V a1^a2^a3^a4 V a1^a2^a3a4
+
+w4 = ^a1^a2^a3^a4 V ^a1a2^a3^a4x4 V ^a1a2a3^a4 V a1^a2a3^a4x7 V a1^a2a3^a4^x7x6 V a1a2^a3^a4x10^x11 V a1a2^a3^a4^x10x11
+
+
+
+u1 = a1^a2a3a4x1^x8^x10^x11 V a1^a2a3a4x1^x8x10x11 V a1^a2a3a4^x1^x2^x10^x11 V a1^a2a3a4^x1^x2x10x11 V a1^a2a3a4^x1x2^x9^x10^x11 V a1^a2a3a4^x1x2^x9x10x11 V a1a2^a3^a4^x10^x11 V a1a2^a3^a4x10x11 V a1a2^a3a4 V a1a2a3^a4
+
+u2 = ^a1a2^a3a4x6 V ^a1a2^a3a4^x6 V ^a1a2a3a4x7^x2x4 V ^a1a2a3a4x7x2^x9^x10^x11 V ^a1a2a3a4x7x2^x9x10x11 V a1a2^a3^a4^x10^x11 V a1a2^a3^a4x10x11 V a1a2^a3a4 V a1a2a3^a4
+
+u3 = ^a1^a2a3^a4 V ^a1a2a3a4x7x2x9 V ^a1a2a3a4x7x2^x9x10^x11 V ^a1a2a3a4x7x2^x9^x10x11 V ^a1a2a3a4x7x2^x9^x10^x11 V ^a1a2a3a4x7x2^x9x10x11 V a1^a2a3^a4^x7x6 V a1^a2a3^a4^x7^x6 V a1^a2a3a4x1x8 V a1^a2a3a4^x1x2x9 V a1^a2a3a4x1^x8x10^x11 V a1^a2a3a4x1^x8^x10x11 V a1^a2a3a4^x1^x2x10^x11 V a1^a2a3a4^x1^x2^x10x11 V a1^a2a3a4^x1x2^x9x10^x11 V a1^a2a3a4^x1x2^x9^x10x11 V a1^a2a3a4x1^x8^x10^x11 V a1^a2a3a4x1^x8x10x11 V a1^a2a3a4^x1^x2^x10^x11 V a1^a2a3a4^x1^x2x10x11 V a1^a2a3a4^x1x2^x9^x10^x11 V a1^a2a3a4^x1x2^x9x10x11 V a1a2a3^a4
+
+u4 = ^a1^a2^a3a4x1 V ^a1^a2a3a4x5 V ^a1a2^a3a4^x6 V ^a1a2a3a4x7x2x9 V ^a1a2a3a4^x7x5 V ^a1a2a3a4x7^x2^x4 V ^a1a2a3a4x7x2^x9^x10^x11 V ^a1a2a3a4x7x2^x9x10x11 V a1^a2^a3a4 V a1^a2a3a4x1x8 V a1^a2a3a4^x1x2x9 V a1^a2a3a4x1^x8^x10^x11 V a1^a2a3a4x1^x8x10x11 V a1^a2a3a4^x1^x2^x10^x11 V a1^a2a3a4^x1^x2x10x11 V a1^a2a3a4^x1x2^x9^x10^x11 V a1^a2a3a4^x1x2^x9x10x11 V a1a2^a3a4
